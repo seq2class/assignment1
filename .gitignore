@@ -1,0 +1,14 @@
+*.egg-info/
+*.egg
+__pycache__/
+*~
+*.pyc
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.idx
+*.ilg
+*.ind
+.ipynb_checkpoints/
